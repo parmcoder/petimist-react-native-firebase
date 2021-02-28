@@ -1,1 +1,1 @@
-# petimist-react-native-firebase
+# Petimist - Mobile Platform
